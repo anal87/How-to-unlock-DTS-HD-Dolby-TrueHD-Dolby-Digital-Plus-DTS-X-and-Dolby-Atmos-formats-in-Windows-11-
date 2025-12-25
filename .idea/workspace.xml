@@ -29,7 +29,8 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "com.google.services.firebase.aqiPopupShown": "true"
+    "com.google.services.firebase.aqiPopupShown": "true",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RunAnythingCache">
